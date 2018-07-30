@@ -5,7 +5,7 @@ Students should fork this repository and upload reqired assignment files due to 
 
 The Final Score for each assignment is calculated as described here: You have 100 points at first. For missing each task's main activity you lose 10 points and having minor mistakes reduces 5 points of your starting points.This will be your score as "Completeness" of assignment. After calculating the completeness of assignment, you lose 2.5% of your score for each extra commit you had and 0.5% for each hour you delayed doing the assignment.
 
-The Final Score will be the average of scores for all the assignments.
+The Final Score will be the average of all the assignments scores.
 
 Good luck.
 
