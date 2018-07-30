@@ -34,7 +34,7 @@ Use Iris.sqlite to do the rest of tasks:
 
 Task 2: Use "Color Manager" node to assign colors to Classes (setosa, versicolor, virginica) in Iris dataset.
 
-Task 3: Use a "Scatter Plot" node and use "sepal_width" as x axis and "petal_width" as y axis and then select the one single point which is not close to other points in "setosa" class. Save changes as default configuration.
+Task 3: Use a "Scatter Plot" node and select "sepal_width" as x axis and "petal_width" as y axis and then select the one single point which is not close to other points in "setosa" class. Save changes as default configuration.
 
 Task 4: Filter and exclude the row which was selected in the previous task.
 
