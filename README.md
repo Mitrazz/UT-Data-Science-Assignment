@@ -9,6 +9,8 @@ The Final Score will be the average of scores for all the assignments.
 
 Good luck.
 
+-------------------------------------
+
 Session 2 Assignment: For this assignment you have to upload 2 files to your Github repository (forked) and share the link to your repo to complete tasks 1 to 4. Also you have to share the link to your KNIME forum profile whenever task 5 is completed.
 
 Task 1: Read the "adult.csv" file using "File Reader" node. The output data MUST contain only first 30,000 rows and all columns MUST be labeled.
@@ -21,6 +23,8 @@ Task 3: Read "Iris.sqlite" database file using appropriate nodes. The output dat
 Task 4: Add "Node Monitor" view to the right panel. Take a screenshot while this view is added in KNIME Analytics Platform.
 
 Task 5: Sign up for a KNIME Forum account and get "Autobiographer" and "First Like" badges.
+
+-------------------------------------
 
 Session 3 Assignment: For this assignment you have to upload 1 file (.knwf) to your repo.
 
