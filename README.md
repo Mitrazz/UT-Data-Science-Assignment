@@ -11,7 +11,7 @@ Good luck.
 
 -------------------------------------
 
-Session 2 Assignment: For this assignment you have to upload 2 files to your Github repository (forked) and share the link to your repo to complete tasks 1 to 4. Also you have to share the link to your KNIME forum profile whenever task 5 is completed.
+Session 2 Assignment: To complete this assignment you have to upload 2 files to your Github repository (forked) and share the link to your repo to complete tasks 1 to 4. Also you have to share the link to your KNIME forum profile whenever task 5 is completed.
 
 Task 1: Read the "adult.csv" file using "File Reader" node. The output data MUST contain only first 30,000 rows and all columns MUST be labeled.
   
@@ -26,7 +26,7 @@ Task 5: Sign up for a KNIME Forum account and get "Autobiographer" and "First Li
 
 -------------------------------------
 
-Session 3 Assignment: For this assignment you have to upload 1 file (.knwf) to your repo.
+Session 3 Assignment: To complete this assignment you have to upload 1 file (.knwf) to your repo.
 
 Task 1: Remove row limit in "File Reader" node and column limit in "Excel Reader". (These limitations were done for previous assignment)
 
