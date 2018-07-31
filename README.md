@@ -30,7 +30,7 @@ Session 3 Assignment: To complete this assignment you have to upload 1 file (.kn
 
 Task 1: Remove row limit in "File Reader" node and column limit in "Excel Reader". (These limitations were applied in the previous assignment)
 
-Use Iris.sqlite to do the rest of tasks:
+Use Iris.sqlite to do the rest of tasks in a continuous workflow:
 
 Task 2: Use "Color Manager" node to assign colors to Classes (setosa, versicolor, virginica) in Iris dataset.
 
