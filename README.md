@@ -28,7 +28,7 @@ Task 5: Sign up for a KNIME Forum account and get "Autobiographer" and "First Li
 
 Session 3 Assignment: To complete this assignment you have to upload 1 file (.knwf) to your repo.
 
-Task 1: Remove row limit in "File Reader" node and column limit in "Excel Reader". (These limitations were done in the previous assignment)
+Task 1: Remove row limit in "File Reader" node and column limit in "Excel Reader". (These limitations were applied in the previous assignment)
 
 Use Iris.sqlite to do the rest of tasks:
 
